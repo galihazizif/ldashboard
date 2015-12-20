@@ -1,0 +1,36 @@
+.navbar-default{
+	background: #2660DE;
+}
+
+.navbar-default .navbar-brand{
+	color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: #FFFFFF;
+}
+
+.sidebar{
+	background: red;
+}
+
+.l-main{
+	margin-top: 50px;
+}
+
+.l-breadcrumb{
+	background: blue;
+	margin-top: 50px;
+	position: fixed;
+}
+
+.l-panel{
+	margin-top: 30px;
+}
+
+@media(max-width: 768px){
+	.l-panel{
+		margin-top: 15px;
+	}
+}
+
